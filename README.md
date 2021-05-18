@@ -16,10 +16,10 @@
 
 - <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"> Python
 - <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask"> Flask
-- Numpy, Pandas, Matplotlib, Seaborn
+- 📊 Numpy, Pandas, Matplotlib, Seaborn
 - <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="javascript"> Tensorflow
 
-#### I like to dabble with
+#### I also like to dabble with
 - <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="javascript"> Unity
 - 😎 WebXR
 - <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="javascript"> Arduino
