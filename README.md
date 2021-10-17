@@ -3,7 +3,7 @@
 
 <br />
 
-### I ❤ making my ideas come to life through Software 💻
+### I love making my ideas come to life through Software 💻
 
 ## Skills
 #### I like to work with
